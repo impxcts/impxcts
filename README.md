@@ -32,5 +32,6 @@ My main goal is to expand my knowledge on different areas within tech, such as a
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=impxcts&theme=tokyonight)
 ## 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=impxcts&style=for-the-badge)
