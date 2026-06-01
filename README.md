@@ -11,17 +11,13 @@ My main goal is to expand my knowledge on different areas within tech, such as a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jay_Ortiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-ortiz-6a381b2a9/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-impxcts-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/impxcts)
-## 🌎 Socials/ Where To Find Me!
 ## 🌎 Socials / Where To Find Me!
-
 ### 📸 Social Media
-
 [![Personal](https://img.shields.io/badge/Instagram-jzssc-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/jzssc/)
 
-[![Tech](https://img.shields.io/badge/Photography-impxctz__-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/impxctz_/)
+[![Tech](https://img.shields.io/badge/Tech_Account-impxctz__-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/impxctz_/)
 
 ### 🎮 Content & Streaming
-
 [![Twitch](https://img.shields.io/badge/Twitch-impxcts__-9146FF?style=for-the-badge\&logo=twitch\&logoColor=white)](https://www.twitch.tv/impxcts_)
 
 [![YouTube](https://img.shields.io/badge/YouTube-@impxctz-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@impxctz)
