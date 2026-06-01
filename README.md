@@ -6,7 +6,8 @@ I am a computer science student in northern California.
 My main goal is to expand my knowledge on different areas within tech, such as app development, software engineering hardware, etc. 
 
 ## How to Contact Me! 💭
-Feel free to email me at: [![Email](https://img.shields.io/badge/Email-jortizcontact%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jortizcontact@gmail.com)
+Feel free to email me at:
+[![Email](https://img.shields.io/badge/Email-jortizcontact%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jortizcontact@gmail.com)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=impxcts&show_icons=true&theme=tokyonight&rank_icon=github)
