@@ -6,10 +6,10 @@ I am a computer science student in northern California.
 My main goal is to expand my knowledge on different areas within tech, such as app development, software engineering hardware, etc. 
 
 ## How to Contact Me! 💭
-Feel free to email me at:
-
 [![Email](https://img.shields.io/badge/Email-jortizcontact%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jortizcontact@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][](https://www.linkedin.com/in/jesse-ortiz-6a381b2a9/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesse_Ortiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-ortiz-6a381b2a9/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-impxcts-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/impxcts)
 ## 🌎 Socials/ Where To Find Me!
 
