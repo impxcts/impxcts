@@ -20,17 +20,11 @@ My main goal is to expand my knowledge on different areas within tech, such as a
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+## 🛠️ Tech Stack
 
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,python,javascript,django,aws,mongodb,git,github,linux,vscode,visualstudio)](https://skillicons.dev)
 
-### IDEs
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=impxcts&show_icons=true&theme=tokyonight&rank_icon=github)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=impxcts&theme=tokyonight)
