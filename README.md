@@ -11,5 +11,7 @@ Call me Jay or 'impxcts'
 ![](https://github-readme-activity-graph.vercel.app/graph?username=impxcts&theme=tokyo-night)
 
 ## 🏆 GitHub Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=impxcts&theme=tokyonight&column=4)
+
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=impxcts&style=for-the-badge)
