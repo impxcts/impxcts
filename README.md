@@ -7,6 +7,7 @@ My main goal is to expand my knowledge on different areas within tech, such as a
 
 ## How to Contact Me! 💭
 Feel free to email me at:
+
 [![Email](https://img.shields.io/badge/Email-jortizcontact%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jortizcontact@gmail.com)
 
 ## 📊 GitHub Stats
