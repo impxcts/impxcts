@@ -13,7 +13,7 @@ My main goal is to expand my knowledge on different areas within tech, such as a
 [![GitHub](https://img.shields.io/badge/GitHub-impxcts-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/impxcts)
 ## 🌎 Socials / Where To Find Me!
 ### 📸 Social Media
-[![Personal](https://img.shields.io/badge/Instagram-jzssc-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/jzssc/)
+[![Personal](https://img.shields.io/badge/Personal_Instagram-jzssc-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/jzssc/)
 
 [![Tech](https://img.shields.io/badge/Tech_Account-impxctz__-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/impxctz_/)
 
