@@ -2,7 +2,7 @@
 Call me Jay or 'impxcts'
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=impxcts&show_icons=true&theme=radical)
+![📊 GitHub Stats](https://github-readme-stats.vercel.app/api?username=impxcts&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=impxcts&theme=radical)
 
