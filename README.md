@@ -27,17 +27,17 @@ My main goal is to expand my knowledge on different areas within tech, such as a
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=impxcts&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=impxcts&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=impxcts&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=impxcts&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=impxcts&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=impxcts&layout=compact&theme=tokyonight)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=impxcts&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=impxcts&theme=tokyo-night)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=impxcts&theme=tokyonight&column=4)
+![](https://github-profile-trophy.vercel.app/?username=impxcts&theme=tokyonight&column=4)
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=impxcts&style=for-the-badge)
