@@ -8,3 +8,7 @@ Call me Jay or 'impxcts'
 ![](https://github-readme-streak-stats.herokuapp.com/?user=impxcts&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=impxcts&layout=compact&theme=tokyonight)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=impxcts&theme=tokyonight&column=4)
