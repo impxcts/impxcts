@@ -15,13 +15,6 @@ My main goal is to expand my knowledge on different areas within tech, such as a
 
 ## 🛠️ Tech Stack
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-## 🛠️ Tech Stack
-
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,python,javascript,django,aws,mongodb,git,github,linux,vscode,visualstudio)](https://skillicons.dev)
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
