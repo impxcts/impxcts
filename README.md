@@ -15,7 +15,7 @@ My main goal is to expand my knowledge on different areas within tech, such as a
 ### 📸 Social Media
 [![Personal](https://img.shields.io/badge/Personal_Instagram-jzssc-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/jzssc/)
 
-[![Tech](https://img.shields.io/badge/Tech_Account-impxctz__-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/impxctz_/)
+[![Tech](https://img.shields.io/badge/Tech_Instagram-impxctz__-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/impxctz_/)
 
 ### 🎮 Content & Streaming
 [![Twitch](https://img.shields.io/badge/Twitch-impxcts__-9146FF?style=for-the-badge\&logo=twitch\&logoColor=white)](https://www.twitch.tv/impxcts_)
