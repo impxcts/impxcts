@@ -3,7 +3,7 @@ You can call me Jay or 'impxcts'
 
 I am a computer science student in northern California.
 
-My main goal is to expand my knowledge on different areas within tech, such as app development, software engineering hardware, etc. 
+My main goal is to expand my knowledge on different areas within tech, such as app development, software engineering, hardware, etc. 
 
 ## If you would like to support me ☕️
 [![Buymeacoffee](https://img.shields.io/badge/buymeacoffee-impxcts-E4405F?style=for-the-badge&logoColor=yellow)](https://buymeacoffee.com/impxcts)
